@@ -4,7 +4,6 @@ _better known as Kultrinha_
 - 13 years, Brazil 🇧🇷
 - Interested in Android and custom ROMs
 - Student 📚
-- Autistic level 1 🧩
 - I use Debian as my main Linux distribution
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Motorola](https://img.shields.io/badge/Motorola-%23E1140A.svg?style=for-the-badge&logo=motorola&logoColor=white)
