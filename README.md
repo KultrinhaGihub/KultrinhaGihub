@@ -1,5 +1,3 @@
-![banner](https://raw.githubusercontent.com/KultrinhaGihub/KultrinhaGihub/refs/heads/main/IMG_20260208_021256.png)
-
 ## 👋 Hi, I'm Pedro Otávio [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 _better known as Kultrinha_
 
