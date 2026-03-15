@@ -20,8 +20,7 @@ fastboot -w reboot
 </p>
 
 - 13 years, Brazil 🇧🇷
-- Interested in Android and custom ROMs
-- Big fan of GenesisOS (which now revives it called GenesisOS Community Edition)
+- Interested in Android and custom ROMs<!-- - Big fan of GenesisOS (which now revives it called GenesisOS Community Edition) -->
 - Student 📚
 - I use Debian as my main Linux distribution
 
@@ -36,9 +35,8 @@ fastboot -w reboot
 </h2>
 
 - (on my profile) I'm making bootlogos for the SM6225, SM8350, etc.
-
-- I'm also reviving a ROM that I love from the heart called GenesisOS, called GenesisOS Community Edition (GenesisOS CE for short), if you want to look, it's here:
-[GenesisOS Community Edition](https://github.com/GenesisOS-CE)
+<!-- - I'm also reviving a ROM that I love from the heart called GenesisOS, called GenesisOS Community Edition (GenesisOS CE for short), if you want to look, it's here:
+[GenesisOS Community Edition](https://github.com/GenesisOS-CE) -->
 
 - I'm also working on a device tree project of each ROM for SM6225. If you want to take a look, it's here.
 [@SM6225-Project](https://github.com/SM6225-Project)
