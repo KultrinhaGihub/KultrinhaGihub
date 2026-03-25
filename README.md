@@ -22,6 +22,7 @@ fastboot -w reboot
 - 13 years, Brazil 🇧🇷
 - Interested in Android and custom ROMs<!-- - Big fan of GenesisOS (which now revives it called GenesisOS Community Edition) -->
 - Student 📚
+- lazy 🫠
 - I use Debian as my main Linux distribution
 
 <p align="center">
